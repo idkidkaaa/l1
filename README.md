@@ -21,12 +21,16 @@
 Сценарий работы пользователя представлен в виде блок-схемы:<br><br>
 <img src=images/uws.png height=60% width=60%>
 
-<h2 align=center>3. Структура БД</h2>
+<h2 align=center>3. Хореография</h2>
+
+<img src=images/hor.png height=60% width=60%>
+
+<h2 align=center>4. Структура БД</h2>
 
 Используется MySQL. Описание БД:<br><br>
 <img src=images/db.png height=60% width=60%>
 
-<h2 align=center>4. Описание алгоритмов</h2>
+<h2 align=center>5. Описание алгоритмов</h2>
 
 1. Авторизация:
 <img src=images/alglogin.png height=40% width=40%>
